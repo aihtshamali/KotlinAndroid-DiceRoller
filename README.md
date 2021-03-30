@@ -1,2 +1,3 @@
-"#Android Kotlin-DiceRoller UDACITY Nano Degree Exercise 1"
+# Android Kotlin-DiceRoller 
+### UDACITY Nano Degree Exercise 1
 
